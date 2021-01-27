@@ -1,8 +1,7 @@
 # PhD_Economics
 
 
-Folder NN4BC:
-
+#NN4BC
 Transfer Learning for Business Cycle Identification
 
 Abstract
