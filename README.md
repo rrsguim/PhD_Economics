@@ -1,10 +1,8 @@
-# PhD_Economics
+# Transfer Learning and Macroeconomics
 
 
-## NN4BC
+## NN4BC folder
+Chapter 2 - Transfer Learning for Business Cycle
 
-Transfer Learning for Business Cycle Identification
-
-Abstract
-
-A deep learning model is proposed as a strategy for identifying business cycles. The approach integrates the idea of storing knowledge gained from one region’s economics experts and applying it to other geographic areas. The first is captured with a supervised deep neural network model and the second by applying it to another dataset, a transfer learning procedure. The hyperparameters were tuned using a grid search process. The empirical results indicate that the strategy proposed leads to successful business cycle identification.
+## TL4OG folder
+Chapter 3 - Transfer Learning for Output Gap 
