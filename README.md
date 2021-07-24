@@ -12,4 +12,5 @@ Codes and files: Chapter - Transfer Learning for Business Cycle
 ## TL4OG folder
 Codes and files: Chapter - Transfer Learning for Output Gap 
 
-## RIDE browser-based model with tensorflow.js - www.deeplearningeconomics.com/RIDE
+## RIDE browser-based model 
+www.deeplearningeconomics.com/RIDE: Chapter - Representation Learning for Interpolation, Distribution and Extrapolation of time series by related series
