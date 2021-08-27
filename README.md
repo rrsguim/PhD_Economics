@@ -18,5 +18,5 @@ Codes and files: Chapter - Transfer Learning for Output Gap
 ## RIDE browser-based model 
 www.deeplearningeconomics.com/RIDE: Chapter - Representation Learning for Interpolation, Distribution and Extrapolation of time series by related series
 
-## YouYube channel
+## YouTube channel
 https://www.youtube.com/watch?v=G40ayo-6yh8
