@@ -10,7 +10,8 @@ The results obtained show the suitability of deep learning models applied to mac
 
 ## arXiv BibTex Citation
 @misc{guimaraes2022deep,
-      title={Deep Learning Macroeconomics}, 
+      title={Deep Learning Macroeconomics},
+      note={Doctoral Thesis},
       author={Rafael R. S. Guimaraes},
       year={2022},
       eprint={2201.13380},
