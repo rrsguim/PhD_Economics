@@ -8,7 +8,7 @@ Secondly, since deep learning methods are a way of learning representations, tho
 
 The results obtained show the suitability of deep learning models applied to macroeconomic problems. First, models learned to classify United States business cycles correctly. Then, applying transfer learning, they were able to identify the business cycles of out-of-sample Brazilian and European data. Along the same lines, the models learned to estimate the output gap based on the U.S. data and obtained good performance when faced with Brazilian data. In both cases, the proposed strategy emerges as a potential supplementary tool for governments and the private sector to conduct their activities in the light of national and international economic conditions. Additionally, deep learning proved adequate for mapping low-frequency variables from high-frequency data to interpolate, distribute, and extrapolate time series by related series. The application of this technique to Brazilian data proved to be compatible with benchmarks based on other techniques.
 
-## BibTex Citation
+## arXiv BibTex Citation
 @misc{guimaraes2022deep,
       title={Deep Learning Macroeconomics}, 
       author={Rafael R. S. Guimaraes},
