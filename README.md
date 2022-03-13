@@ -26,7 +26,7 @@ Codes and files: Chapter - Transfer Learning for Business Cycle
 Codes and files: Chapter - Transfer Learning for Output Gap 
 
 ## RIDE browser-based model 
-www.deeplearningeconomics.com/RIDE: Chapter - Representation Learning for Interpolation, Distribution and Extrapolation of time series by related series
+http://rrsguim.github.io/RIDE/index.html: Chapter - Representation Learning for Interpolation, Distribution and Extrapolation of time series by related series
 
 ## YouTube channel
 https://www.youtube.com/channel/UCtDACYNXs4BUjGf4Com-0SQ
